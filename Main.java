@@ -19,7 +19,6 @@ public class Main {
         library.borrowBook(borrower, book2);
 
         borrower.displayBorrowedBooks();
-        // aku kasih update ngetes git
 
         library.returnBook(borrower, book1);
 
